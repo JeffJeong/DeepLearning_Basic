@@ -1,8 +1,8 @@
 # DeepLearning_Basic
 Begin to DeepLearning, Python3 and anaconda
+\n\n
 
-
-NOTE_
-USED LIBRARY : Numpy, matplotlib
-STARTDATE : 17-04-28
-REFERENCE : DeepLearning from scratch
+NOTE_\n
+USED LIBRARY : Numpy, matplotlib\n
+STARTDATE : 17-04-28\n
+REFERENCE : DeepLearning from scratch\n
